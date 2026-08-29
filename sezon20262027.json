@@ -1,6 +1,7 @@
 {
   "takim_adi": "Fenerbahçe SK",
   "sezon": "2026-2027",
+  "fener_logo": "https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png",
   "fikstur": [
     {
       "mac_id": 101,
@@ -96,6 +97,7 @@
       "tur": "Play-off 2. Maç",
       "ev_sahibi": "Olympique Lyonnais",
       "deplasman": "Fenerbahçe",
+      "rakip_logo": "https://im.mackolik.com/img/logo/buyuk/201.gif",
       "stadyum": "Parc Olympique Lyonnais",
       "durum": "Oynandı",
       "tv_yayini": ["TRT Spor", "tabii"],
@@ -124,6 +126,7 @@
       "hafta": 3,
       "ev_sahibi": "Samsunspor",
       "deplasman": "Fenerbahçe",
+      "rakip_logo": "https://im.mackolik.com/img/logo/buyuk/8.gif",
       "stadyum": "Samsun Yeni 19 Mayıs Stadyumu",
       "durum": "Gelecek Maç",
       "tv_yayini": ["beIN Sports 1", "tod"],
