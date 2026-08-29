@@ -18,16 +18,16 @@
         "deplasman": 1
       },
       "goller": [
-        { "dakika": 12, "takim": "Gençlerbirliği", "futbolcu": "Mustafa Yatabaré", "asist": "Alper Potuk" },
-        { "dakika": 44, "takim": "Fenerbahçe", "futbolcu": "Youssef En-Nesyri", "asist": "Dušan Tadić" },
-        { "dakika": 89, "takim": "Gençlerbirliği", "futbolcu": "Alper Potuk", "asist": null }
+        { "dakika": 13, "takim": "Fenerbahçe", "futbolcu": "Anderson Talisca", "asist": "Levent Mercan" },
+        { "dakika": 37, "takim": "Gençlerbirliği", "futbolcu": "Franco Tongya", "asist": "Sekou Koita" },
+        { "dakika": 56, "takim": "Gençlerbirliği", "futbolcu": "Oğulcan Ülgün", "asist": "Abdurrahim Dursun" }
       ],
       "hakemler": {
-        "orta_hakem": "Halil Umut Meler",
-        "yardimci_hakem_1": "Mustafa Emre Eyisoy",
-        "yardimci_hakem_2": "Kerem Ersoy",
-        "dorduncu_hakem": "Direneç Tonusluoğlu",
-        "var_hakemi": "Alper Ulusoy"
+        "orta_hakem": "Oğuzhan Aksu",
+        "yardimci_hakem_1": "Esat Sancaktar",
+        "yardimci_hakem_2": "O. Gökhan Bilir",
+        "dorduncu_hakem": "",
+        "var_hakemi": ""
       }
     },
     {
@@ -38,7 +38,7 @@
       "tur": "Play-off 1. Maç",
       "ev_sahibi": "Fenerbahçe",
       "deplasman": "Olympique Lyonnais",
-      "stadyum": "Şükrü Saracoğlu Spor Kompleksi",
+      "stadyum": "Chobani Stadyumu",
       "durum": "Oynandı",
       "tv_yayini": ["TRT 1", "tabii"],
       "skor": {
@@ -46,15 +46,15 @@
         "deplasman": 1
       },
       "goller": [
-        { "dakika": 34, "takim": "Olympique Lyonnais", "futbolcu": "Alexandre Lacazette", "asist": "Corentin Tolisso" },
-        { "dakika": 78, "takim": "Fenerbahçe", "futbolcu": "Fred", "asist": "Allan Saint-Maximin" }
+        { "dakika": 40, "takim": "Olympique Lyonnais", "futbolcu": "Lois Openda", "asist": "Corentin Tolisso" },
+        { "dakika": 47, "takim": "Fenerbahçe", "futbolcu": "Mason Greenwood", "asist": "Kerem Aktürkoğlu" }
       ],
       "hakemler": {
-        "orta_hakem": "Szymon Marciniak",
-        "yardimci_hakem_1": "Tomasz Listkiewicz",
-        "yardimci_hakem_2": "Adam Kupsik",
-        "dorduncu_hakem": "Tomasz Musiał",
-        "var_hakemi": "Tomasz Kwiatkowski"
+        "orta_hakem": "Sven Jablonski",
+        "yardimci_hakem_1": "Eduard Beitinger",
+        "yardimci_hakem_2": "Eric Müller",
+        "dorduncu_hakem": "",
+        "var_hakemi": ""
       }
     },
     {
@@ -65,7 +65,7 @@
       "hafta": 2,
       "ev_sahibi": "Fenerbahçe",
       "deplasman": "Konyaspor",
-      "stadyum": "Şükrü Saracoğlu Spor Kompleksi",
+      "stadyum": "Chobani Stadyumu",
       "durum": "Oynandı",
       "tv_yayini": ["beIN Sports 1", "tod"],
       "skor": {
@@ -73,19 +73,19 @@
         "deplasman": 2
       },
       "goller": [
-        { "dakika": 5, "takim": "Fenerbahçe", "futbolcu": "Dušan Tadić", "asist": "Sebastian Szymański" },
-        { "dakika": 22, "takim": "Konyaspor", "futbolcu": "Sokol Cikalleshi", "asist": "Guilherme" },
-        { "dakika": 41, "takim": "Fenerbahçe", "futbolcu": "Sebastian Szymański", "asist": null },
-        { "dakika": 60, "takim": "Fenerbahçe", "futbolcu": "Youssef En-Nesyri", "asist": "Dušan Tadić" },
-        { "dakika": 73, "takim": "Konyaspor", "futbolcu": "Guilherme", "asist": null },
-        { "dakika": 85, "takim": "Fenerbahçe", "futbolcu": "İrfan Can Kahveci", "asist": "Fred" }
+        { "dakika": 7, "takim": "Fenerbahçe", "futbolcu": "Vedat Muriqi", "asist": null },
+        { "dakika": 10, "takim": "Konyaspor", "futbolcu": "Ebrima Colley", "asist": "Yhoan Andzouana" },
+        { "dakika": 20, "takim": "Fenerbahçe", "futbolcu": "Mason Greenwood", "asist": null },
+        { "dakika": 33, "takim": "Fenerbahçe", "futbolcu": "Marco Asensio	", "asist": "Mason Greenwood" },
+        { "dakika": 49, "takim": "Fenerbahçe", "futbolcu": "Mason Greenwood	", "asist": "Vedat Muriqi" },
+        { "dakika": 94, "takim": "Konyaspor", "futbolcu": "Deniz Türüç", "asist": null }
       ],
       "hakemler": {
-        "orta_hakem": "Zorbay Küçük",
-        "yardimci_hakem_1": "İbrahim Çağlar Uyarcan",
-        "yardimci_hakem_2": "Volkan Ahmet Narinç",
-        "dorduncu_hakem": "Muhammet Ali Metoğlu",
-        "var_hakemi": "Özgür Yankaya"
+        "orta_hakem": "Atilla Karaoğlan",
+        "yardimci_hakem_1": "Mehmet Kısal",
+        "yardimci_hakem_2": "Bilal Gölen",
+        "dorduncu_hakem": "",
+        "var_hakemi": ""
       }
     },
     {
@@ -96,7 +96,7 @@
       "tur": "Play-off 2. Maç",
       "ev_sahibi": "Olympique Lyonnais",
       "deplasman": "Fenerbahçe",
-      "stadyum": "Groupama Stadium",
+      "stadyum": "Parc Olympique Lyonnais",
       "durum": "Oynandı",
       "tv_yayini": ["TRT Spor", "tabii"],
       "skor": {
@@ -104,16 +104,16 @@
         "deplasman": 2
       },
       "goller": [
-        { "dakika": 15, "takim": "Fenerbahçe", "futbolcu": "Allan Saint-Maximin", "asist": "Fred" },
-        { "dakika": 55, "takim": "Olympique Lyonnais", "futbolcu": "Corentin Tolisso", "asist": null },
-        { "dakika": 90, "takim": "Fenerbahçe", "futbolcu": "Edin Džeko", "asist": "İrfan Can Kahveci" }
+        { "dakika": 24, "takim": "Fenerbahçe", "futbolcu": "Vedat Muriqi", "asist": null },
+        { "dakika": 28, "takim": "Fenerbahçe", "futbolcu": "Archie Brown", "asist": "Mason Greenwood" },
+        { "dakika": 61, "takim": "Olympique Lyonnais", "futbolcu": "Malick Fofana	", "asist": "Ashley Maitland-Niles" }
       ],
       "hakemler": {
-        "orta_hakem": "Daniele Orsato",
-        "yardimci_hakem_1": "Ciro Carbone",
-        "yardimci_hakem_2": "Alessandro Giallatini",
-        "dorduncu_hakem": "Rosario Abisso",
-        "var_hakemi": "Massimiliano Irrati"
+        "orta_hakem": "Maurizio Mariani",
+        "yardimci_hakem_1": "Daniele Bindoni",
+        "yardimci_hakem_2": "Alberto Tegoni",
+        "dorduncu_hakem": "",
+        "var_hakemi": ""
       }
     },
     {
@@ -128,8 +128,14 @@
       "durum": "Gelecek Maç",
       "tv_yayini": ["beIN Sports 1", "tod"],
       "skor": null,
-      "goller": [],
-      "hakemler": null
+      "goller": [], Türkiye    Türkiye   
+      "hakemler": {
+        "orta_hakem": "Yasin Kol",
+        "yardimci_hakem_1": "Anıl Usta",
+        "yardimci_hakem_2": "Bahtiyar Birinci",
+        "dorduncu_hakem": "",
+        "var_hakemi": ""
+      }
     },
     {
       "mac_id": 106,
