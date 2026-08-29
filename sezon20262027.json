@@ -110,6 +110,9 @@
         { "dakika": 28, "takim": "Fenerbahçe", "futbolcu": "Archie Brown", "asist": "Mason Greenwood" },
         { "dakika": 61, "takim": "Olympique Lyonnais", "futbolcu": "Malick Fofana	", "asist": "Ashley Maitland-Niles" }
       ],
+      "macin_yildizi": [
+        { "futbolcu": "Vedat Muriqi", "puan": 8.1 }
+      ],
       "hakemler": {
         "orta_hakem": "Maurizio Mariani",
         "yardimci_hakem_1": "Daniele Bindoni",
