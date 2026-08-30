@@ -141,7 +141,10 @@
       "stadyum": "Samsun Yeni 19 Mayıs Stadyumu",
       "durum": "Gelecek Maç",
       "tv_yayini": ["beIN Sports 1", "tod"],
-      "skor": null,
+      "skor": {
+        "ev_sahibi": 0,
+        "deplasman": 2
+      },
       "goller": [],   
       "hakemler": {
         "orta_hakem": "Yasin Kol",
