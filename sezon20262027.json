@@ -145,7 +145,10 @@
         "ev_sahibi": 0,
         "deplasman": 2
       },
-      "goller": [],   
+      "goller": [],
+      "macin_yildizi": [
+        { "futbolcu": "Oğuz Aydın", "puan": 9.4 }
+      ],
       "hakemler": {
         "orta_hakem": "Yasin Kol",
         "yardimci_hakem_1": "Anıl Usta",
