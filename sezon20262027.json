@@ -3,11 +3,45 @@
   "sezon": "2026-2027",
   "fener_logo": "https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png",
   "live": [
-    { "livescore_link": "https://arsiv.mackolik.com/Mac/4475057/Lecce-Roma" },
-    { "live_evsahibi": "Samsunspor" },
-    { "live_deplasman": "FENERBAHÇE" },
-    { "muhtemel11_evsahibi": "Okan Kocuk", "Joe Mendes", "Toni Borevkovic", "Ali Badra Diabate", "Elliot Ward", "Logi Tomasson", "Celil Yüksel", "Emre Kılınç", "Yalçın Kayan", "Saikuba Jarju", "Fatih Kaya" },
-    { "muhtemel11_deplasman": "Ederson", "Archie Brown", "Milan Skriniar", "Nathan Ake", "Nelson Semedo",	"NGolo Kante", "İsmail Yüksek", "Matteo Guendouzi", "Mason Greenwood", "Oğuz Aydın", "Vedat Muriqi" }
+    {
+      "livescore_link": "https://arsiv.mackolik.com/Mac/4475057/Lecce-Roma"
+    },
+    {
+      "live_evsahibi": "Samsunspor"
+    },
+    {
+      "live_deplasman": "FENERBAHÇE"
+    },
+    {
+      "muhtemel11_evsahibi": [
+        "Okan Kocuk",
+        "Joe Mendes",
+        "Toni Borevkovic",
+        "Ali Badra Diabate",
+        "Elliot Ward",
+        "Logi Tomasson",
+        "Celil Yüksel",
+        "Emre Kılınç",
+        "Yalçın Kayan",
+        "Saikuba Jarju",
+        "Fatih Kaya"
+      ]
+    },
+    {
+      "muhtemel11_deplasman": [
+        "Ederson",
+        "Archie Brown",
+        "Milan Skriniar",
+        "Nathan Ake",
+        "Nelson Semedo",
+        "NGolo Kante",
+        "İsmail Yüksek",
+        "Matteo Guendouzi",
+        "Mason Greenwood",
+        "Oğuz Aydın",
+        "Vedat Muriqi"
+      ]
+    }
   ],
   "fikstur": [
     {
@@ -20,15 +54,33 @@
       "deplasman": "Fenerbahçe",
       "stadyum": "Eryaman Stadyumu",
       "durum": "Oynandı",
-      "tv_yayini": ["beIN Sports 1", "tod"],
+      "tv_yayini": [
+        "beIN Sports 1",
+        "tod"
+      ],
       "skor": {
         "ev_sahibi": 2,
         "deplasman": 1
       },
       "goller": [
-        { "dakika": 13, "takim": "Fenerbahçe", "futbolcu": "Anderson Talisca", "asist": "Levent Mercan" },
-        { "dakika": 37, "takim": "Gençlerbirliği", "futbolcu": "Franco Tongya", "asist": "Sekou Koita" },
-        { "dakika": 56, "takim": "Gençlerbirliği", "futbolcu": "Oğulcan Ülgün", "asist": "Abdurrahim Dursun" }
+        {
+          "dakika": 13,
+          "takim": "Fenerbahçe",
+          "futbolcu": "Anderson Talisca",
+          "asist": "Levent Mercan"
+        },
+        {
+          "dakika": 37,
+          "takim": "Gençlerbirliği",
+          "futbolcu": "Franco Tongya",
+          "asist": "Sekou Koita"
+        },
+        {
+          "dakika": 56,
+          "takim": "Gençlerbirliği",
+          "futbolcu": "Oğulcan Ülgün",
+          "asist": "Abdurrahim Dursun"
+        }
       ],
       "hakemler": {
         "orta_hakem": "Oğuzhan Aksu",
@@ -48,14 +100,27 @@
       "deplasman": "Olympique Lyonnais",
       "stadyum": "Chobani Stadyumu",
       "durum": "Oynandı",
-      "tv_yayini": ["TRT 1", "tabii"],
+      "tv_yayini": [
+        "TRT 1",
+        "tabii"
+      ],
       "skor": {
         "ev_sahibi": 1,
         "deplasman": 1
       },
       "goller": [
-        { "dakika": 40, "takim": "Olympique Lyonnais", "futbolcu": "Lois Openda", "asist": "Corentin Tolisso" },
-        { "dakika": 47, "takim": "Fenerbahçe", "futbolcu": "Mason Greenwood", "asist": "Kerem Aktürkoğlu" }
+        {
+          "dakika": 40,
+          "takim": "Olympique Lyonnais",
+          "futbolcu": "Lois Openda",
+          "asist": "Corentin Tolisso"
+        },
+        {
+          "dakika": 47,
+          "takim": "Fenerbahçe",
+          "futbolcu": "Mason Greenwood",
+          "asist": "Kerem Aktürkoğlu"
+        }
       ],
       "hakemler": {
         "orta_hakem": "Sven Jablonski",
@@ -75,18 +140,51 @@
       "deplasman": "Konyaspor",
       "stadyum": "Chobani Stadyumu",
       "durum": "Oynandı",
-      "tv_yayini": ["beIN Sports 1", "tod"],
+      "tv_yayini": [
+        "beIN Sports 1",
+        "tod"
+      ],
       "skor": {
         "ev_sahibi": 4,
         "deplasman": 2
       },
       "goller": [
-        { "dakika": 7, "takim": "Fenerbahçe", "futbolcu": "Vedat Muriqi", "asist": null },
-        { "dakika": 10, "takim": "Konyaspor", "futbolcu": "Ebrima Colley", "asist": "Yhoan Andzouana" },
-        { "dakika": 20, "takim": "Fenerbahçe", "futbolcu": "Mason Greenwood", "asist": null },
-        { "dakika": 33, "takim": "Fenerbahçe", "futbolcu": "Marco Asensio	", "asist": "Mason Greenwood" },
-        { "dakika": 49, "takim": "Fenerbahçe", "futbolcu": "Mason Greenwood	", "asist": "Vedat Muriqi" },
-        { "dakika": 94, "takim": "Konyaspor", "futbolcu": "Deniz Türüç", "asist": null }
+        {
+          "dakika": 7,
+          "takim": "Fenerbahçe",
+          "futbolcu": "Vedat Muriqi",
+          "asist": null
+        },
+        {
+          "dakika": 10,
+          "takim": "Konyaspor",
+          "futbolcu": "Ebrima Colley",
+          "asist": "Yhoan Andzouana"
+        },
+        {
+          "dakika": 20,
+          "takim": "Fenerbahçe",
+          "futbolcu": "Mason Greenwood",
+          "asist": null
+        },
+        {
+          "dakika": 33,
+          "takim": "Fenerbahçe",
+          "futbolcu": "Marco Asensio",
+          "asist": "Mason Greenwood"
+        },
+        {
+          "dakika": 49,
+          "takim": "Fenerbahçe",
+          "futbolcu": "Mason Greenwood",
+          "asist": "Vedat Muriqi"
+        },
+        {
+          "dakika": 94,
+          "takim": "Konyaspor",
+          "futbolcu": "Deniz Türüç",
+          "asist": null
+        }
       ],
       "hakemler": {
         "orta_hakem": "Atilla Karaoğlan",
@@ -107,18 +205,39 @@
       "rakip_logo": "https://im.mackolik.com/img/logo/buyuk/201.gif",
       "stadyum": "Parc Olympique Lyonnais",
       "durum": "Oynandı",
-      "tv_yayini": ["TRT Spor", "tabii"],
+      "tv_yayini": [
+        "TRT Spor",
+        "tabii"
+      ],
       "skor": {
         "ev_sahibi": 1,
         "deplasman": 2
       },
       "goller": [
-        { "dakika": 24, "takim": "Fenerbahçe", "futbolcu": "Vedat Muriqi", "asist": null },
-        { "dakika": 28, "takim": "Fenerbahçe", "futbolcu": "Archie Brown", "asist": "Mason Greenwood" },
-        { "dakika": 61, "takim": "Olympique Lyonnais", "futbolcu": "Malick Fofana	", "asist": "Ashley Maitland-Niles" }
+        {
+          "dakika": 24,
+          "takim": "Fenerbahçe",
+          "futbolcu": "Vedat Muriqi",
+          "asist": null
+        },
+        {
+          "dakika": 28,
+          "takim": "Fenerbahçe",
+          "futbolcu": "Archie Brown",
+          "asist": "Mason Greenwood"
+        },
+        {
+          "dakika": 61,
+          "takim": "Olympique Lyonnais",
+          "futbolcu": "Malick Fofana",
+          "asist": "Ashley Maitland-Niles"
+        }
       ],
       "macin_yildizi": [
-        { "futbolcu": "Vedat Muriqi", "puan": 8.1 }
+        {
+          "futbolcu": "Vedat Muriqi",
+          "puan": 8.1
+        }
       ],
       "hakemler": {
         "orta_hakem": "Maurizio Mariani",
@@ -139,17 +258,33 @@
       "rakip_logo": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000155_120x120.png",
       "stadyum": "Samsun Yeni 19 Mayıs Stadyumu",
       "durum": "Oynandı",
-      "tv_yayini": ["beIN Sports 1", "tod"],
+      "tv_yayini": [
+        "beIN Sports 1",
+        "tod"
+      ],
       "skor": {
         "ev_sahibi": 0,
         "deplasman": 2
       },
       "goller": [
-        { "dakika": 3, "takim": "Fenerbahçe", "futbolcu": "Vedat Muriqi", "asist": "Oğuz Aydın" },
-        { "dakika": 49, "takim": "Fenerbahçe", "futbolcu": "Oğuz Aydın", "asist": "İrfan Can Kahveci" }
+        {
+          "dakika": 3,
+          "takim": "Fenerbahçe",
+          "futbolcu": "Vedat Muriqi",
+          "asist": "Oğuz Aydın"
+        },
+        {
+          "dakika": 49,
+          "takim": "Fenerbahçe",
+          "futbolcu": "Oğuz Aydın",
+          "asist": "İrfan Can Kahveci"
+        }
       ],
       "macin_yildizi": [
-        { "futbolcu": "Oğuz Aydın", "puan": 9.4 }
+        {
+          "futbolcu": "Oğuz Aydın",
+          "puan": 9.4
+        }
       ],
       "hakemler": {
         "orta_hakem": "Yasin Kol",
@@ -169,7 +304,9 @@
       "deplasman": "Beşiktaş",
       "stadyum": "Şükrü Saracoğlu Spor Kompleksi",
       "durum": "Gelecek Maç",
-      "tv_yayini": ["beIN Sports 1"],
+      "tv_yayini": [
+        "beIN Sports 1"
+      ],
       "skor": null,
       "goller": [],
       "hakemler": null
@@ -184,7 +321,9 @@
       "deplasman": "Fenerbahçe",
       "stadyum": "Gaziantep Büyükşehir Stadyumu",
       "durum": "Gelecek Maç",
-      "tv_yayini": ["beIN Sports 2"],
+      "tv_yayini": [
+        "beIN Sports 2"
+      ],
       "skor": null,
       "goller": [],
       "hakemler": null
@@ -199,7 +338,9 @@
       "deplasman": "Eyüpspor",
       "stadyum": "Şükrü Saracoğlu Spor Kompleksi",
       "durum": "Gelecek Maç",
-      "tv_yayini": ["beIN Sports 1"],
+      "tv_yayini": [
+        "beIN Sports 1"
+      ],
       "skor": null,
       "goller": [],
       "hakemler": null
@@ -214,7 +355,9 @@
       "deplasman": "Fenerbahçe",
       "stadyum": "Çaykur Didi Stadyumu",
       "durum": "Gelecek Maç",
-      "tv_yayini": ["beIN Sports 1"],
+      "tv_yayini": [
+        "beIN Sports 1"
+      ],
       "skor": null,
       "goller": [],
       "hakemler": null
@@ -229,7 +372,9 @@
       "deplasman": "Alanyaspor",
       "stadyum": "Şükrü Saracoğlu Spor Kompleksi",
       "durum": "Gelecek Maç",
-      "tv_yayini": ["beIN Sports 1"],
+      "tv_yayini": [
+        "beIN Sports 1"
+      ],
       "skor": null,
       "goller": [],
       "hakemler": null
@@ -244,7 +389,9 @@
       "deplasman": "Fenerbahçe",
       "stadyum": "RAMS Park",
       "durum": "Gelecek Maç",
-      "tv_yayini": ["beIN Sports 1"],
+      "tv_yayini": [
+        "beIN Sports 1"
+      ],
       "skor": null,
       "goller": [],
       "hakemler": null
@@ -259,7 +406,9 @@
       "deplasman": "Göztepe",
       "stadyum": "Şükrü Saracoğlu Spor Kompleksi",
       "durum": "Gelecek Maç",
-      "tv_yayini": ["beIN Sports 2"],
+      "tv_yayini": [
+        "beIN Sports 2"
+      ],
       "skor": null,
       "goller": [],
       "hakemler": null
@@ -274,7 +423,9 @@
       "deplasman": "Fenerbahçe",
       "stadyum": "Çorum Şehir Stadyumu",
       "durum": "Gelecek Maç",
-      "tv_yayini": ["beIN Sports 1"],
+      "tv_yayini": [
+        "beIN Sports 1"
+      ],
       "skor": null,
       "goller": [],
       "hakemler": null
@@ -289,7 +440,9 @@
       "deplasman": "Fenerbahçe",
       "stadyum": "Yıldız Entegre Kocaeli Stadyumu",
       "durum": "Gelecek Maç",
-      "tv_yayini": ["beIN Sports 1"],
+      "tv_yayini": [
+        "beIN Sports 1"
+      ],
       "skor": null,
       "goller": [],
       "hakemler": null
@@ -304,7 +457,9 @@
       "deplasman": "Erzurumspor FK",
       "stadyum": "Şükrü Saracoğlu Spor Kompleksi",
       "durum": "Gelecek Maç",
-      "tv_yayini": ["beIN Sports 2"],
+      "tv_yayini": [
+        "beIN Sports 2"
+      ],
       "skor": null,
       "goller": [],
       "hakemler": null
@@ -319,7 +474,9 @@
       "deplasman": "Fenerbahçe",
       "stadyum": "Başakşehir Fatih Terim Stadyumu",
       "durum": "Gelecek Maç",
-      "tv_yayini": ["beIN Sports 1"],
+      "tv_yayini": [
+        "beIN Sports 1"
+      ],
       "skor": null,
       "goller": [],
       "hakemler": null
@@ -334,7 +491,9 @@
       "deplasman": "Trabzonspor",
       "stadyum": "Şükrü Saracoğlu Spor Kompleksi",
       "durum": "Gelecek Maç",
-      "tv_yayini": ["beIN Sports 1"],
+      "tv_yayini": [
+        "beIN Sports 1"
+      ],
       "skor": null,
       "goller": [],
       "hakemler": null
@@ -349,7 +508,9 @@
       "deplasman": "Fenerbahçe",
       "stadyum": "Recep Tayyip Erdoğan Stadyumu",
       "durum": "Gelecek Maç",
-      "tv_yayini": ["beIN Sports 1"],
+      "tv_yayini": [
+        "beIN Sports 1"
+      ],
       "skor": null,
       "goller": [],
       "hakemler": null
@@ -364,7 +525,9 @@
       "deplasman": "Amed Sportif Faaliyetler",
       "stadyum": "Şükrü Saracoğlu Spor Kompleksi",
       "durum": "Gelecek Maç",
-      "tv_yayini": ["beIN Sports 1"],
+      "tv_yayini": [
+        "beIN Sports 1"
+      ],
       "skor": null,
       "goller": [],
       "hakemler": null
