@@ -145,7 +145,10 @@
         "ev_sahibi": 0,
         "deplasman": 2
       },
-      "goller": [],
+      "goller": [
+        { "dakika": 3, "takim": "Fenerbahçe", "futbolcu": "Vedat Muriqi", "asist": "Oğuz Aydın" },
+        { "dakika": 49, "takim": "Fenerbahçe", "futbolcu": "Oğuz Aydın", "asist": "İrfan Can Kahveci" }
+      ],
       "macin_yildizi": [
         { "futbolcu": "Oğuz Aydın", "puan": 9.4 }
       ],
