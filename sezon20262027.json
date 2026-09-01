@@ -241,8 +241,8 @@
 		},
 		{
 			"mac_id" : 105,
-			"tarih" : "2026-09-01",
-			"saat" : "23:30",
+			"tarih" : "2026-08-30",
+			"saat" : "21:30",
 			"turnuva" : "Trendyol Süper Lig",
 			"hafta" : 3,
 			"ev_sahibi" : "Samsunspor",
@@ -285,8 +285,8 @@
 		},
 		{
 			"mac_id" : 106,
-			"tarih" : "2026-09-05",
-			"saat" : "20:00",
+			"tarih" : "2026-09-02",
+			"saat" : "00:00",
 			"turnuva" : "Trendyol Süper Lig",
 			"hafta" : 4,
 			"ev_sahibi" : "Fenerbahçe",
