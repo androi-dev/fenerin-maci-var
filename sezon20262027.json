@@ -4,16 +4,31 @@
   "fener_logo": "https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png",
   "live": [
     {
-      "livescore_link": "https://arsiv.mackolik.com/Mac/4475057/Lecce-Roma"
+      "livescore_link": "https://arsiv.mackolik.com/Mac/4542686/Fenerbahce-Besiktas"
     },
     {
-      "live_evsahibi": "Samsunspor"
+      "live_evsahibi": "FENERBAHÇE"
     },
     {
-      "live_deplasman": "FENERBAHÇE"
+      "live_deplasman": "Beşiktaş JK"
     },
     {
       "muhtemel11_evsahibi": [
+        "Ederson",
+        "Nelson Semedo",
+        "Milan Skriniar",
+        "Nathan Ake",
+        "Archie Brown",
+        "NGolo Kante",
+        "Matteo Guendouzi",
+        "Mason Greenwood",
+        "İrfan Can Kahveci",
+        "Oğuz Aydın",
+        "Vedat Muriqi"
+      ]
+    },
+    {
+      "muhtemel11_deplasman": [
         "Okan Kocuk",
         "Joe Mendes",
         "Toni Borevkovic",
@@ -25,21 +40,6 @@
         "Yalçın Kayan",
         "Saikuba Jarju",
         "Fatih Kaya"
-      ]
-    },
-    {
-      "muhtemel11_deplasman": [
-        "Ederson",
-        "Archie Brown",
-        "Milan Skriniar",
-        "Nathan Ake",
-        "Nelson Semedo",
-        "NGolo Kante",
-        "İsmail Yüksek",
-        "Matteo Guendouzi",
-        "Mason Greenwood",
-        "Oğuz Aydın",
-        "Vedat Muriqi"
       ]
     }
   ],
