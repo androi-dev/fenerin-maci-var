@@ -1,572 +1,527 @@
 {
-  "takim_adi": "Fenerbahçe SK",
-  "sezon": "2026-2027",
-  "fener_logo": "https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png",
-  "live": [
-    {
-      "livescore_link": "https://arsiv.mackolik.com/Mac/4542686/Fenerbahce-Besiktas"
-    },
-    {
-      "live_evsahibi": "FENERBAHÇE"
-    },
-    {
-      "live_deplasman": "Beşiktaş JK"
-    },
-    {
-      "muhtemel11_evsahibi": [
-        "Ederson",
-        "Nelson Semedo",
-        "Milan Skriniar",
-        "Nathan Ake",
-        "Archie Brown",
-        "NGolo Kante",
-        "Matteo Guendouzi",
-        "Mason Greenwood",
-        "İrfan Can Kahveci",
-        "Oğuz Aydın",
-        "Vedat Muriqi"
-      ]
-    },
-    {
-      "muhtemel11_deplasman": [
-        "Okan Kocuk",
-        "Joe Mendes",
-        "Toni Borevkovic",
-        "Ali Badra Diabate",
-        "Elliot Ward",
-        "Logi Tomasson",
-        "Celil Yüksel",
-        "Emre Kılınç",
-        "Yalçın Kayan",
-        "Saikuba Jarju",
-        "Fatih Kaya"
-      ]
-    }
-  ],
-  "fikstur": [
-    {
-      "mac_id": 101,
-      "tarih": "2026-08-15",
-      "saat": "21:30",
-      "turnuva": "Trendyol Süper Lig",
-      "hafta": 1,
-      "ev_sahibi": "Gençlerbirliği",
-      "deplasman": "Fenerbahçe",
-      "rakip_logo": "",
-      "stadyum": "Eryaman Stadyumu",
-      "durum": "Oynandı",
-      "tv_yayini": [
-        "beIN Sports 1",
-        "tod"
-      ],
-      "skor": {
-        "ev_sahibi": 2,
-        "deplasman": 1
-      },
-      "goller": [
-        {
-          "dakika": 13,
-          "takim": "Fenerbahçe",
-          "futbolcu": "Anderson Talisca",
-          "asist": "Levent Mercan"
-        },
-        {
-          "dakika": 37,
-          "takim": "Gençlerbirliği",
-          "futbolcu": "Franco Tongya",
-          "asist": "Sekou Koita"
-        },
-        {
-          "dakika": 56,
-          "takim": "Gençlerbirliği",
-          "futbolcu": "Oğulcan Ülgün",
-          "asist": "Abdurrahim Dursun"
-        }
-      ],
-      "hakemler": {
-        "orta_hakem": "Oğuzhan Aksu",
-        "yardimci_hakem_1": "Esat Sancaktar",
-        "yardimci_hakem_2": "O. Gökhan Bilir",
-        "dorduncu_hakem": "",
-        "var_hakemi": ""
-      }
-    },
-    {
-      "mac_id": 102,
-      "tarih": "2026-08-18",
-      "saat": "22:00",
-      "turnuva": "UEFA Şampiyonlar Ligi Eleme",
-      "tur": "Play-off 1. Maç",
-      "ev_sahibi": "Fenerbahçe",
-      "deplasman": "Olympique Lyonnais",
-      "rakip_logo" : "https://assets.football-logos.cc/logos/france/512x512/lyon.c7612bb5.png",
-      "stadyum": "Chobani Stadyumu",
-      "durum": "Oynandı",
-      "tv_yayini": [
-        "TRT 1",
-        "tabii"
-      ],
-      "skor": {
-        "ev_sahibi": 1,
-        "deplasman": 1
-      },
-      "goller": [
-        {
-          "dakika": 40,
-          "takim": "Olympique Lyonnais",
-          "futbolcu": "Lois Openda",
-          "asist": "Corentin Tolisso"
-        },
-        {
-          "dakika": 47,
-          "takim": "Fenerbahçe",
-          "futbolcu": "Mason Greenwood",
-          "asist": "Kerem Aktürkoğlu"
-        }
-      ],
-      "hakemler": {
-        "orta_hakem": "Sven Jablonski",
-        "yardimci_hakem_1": "Eduard Beitinger",
-        "yardimci_hakem_2": "Eric Müller",
-        "dorduncu_hakem": "",
-        "var_hakemi": ""
-      }
-    },
-    {
-      "mac_id": 103,
-      "tarih": "2026-08-22",
-      "saat": "21:30",
-      "turnuva": "Trendyol Süper Lig",
-      "hafta": 2,
-      "ev_sahibi": "Fenerbahçe",
-      "deplasman": "Konyaspor",
-      "rakip_logo": "https://assets.football-logos.cc/logos/turkey/512x512/konyaspor.7fb1c091.png",
-      "stadyum": "Chobani Stadyumu",
-      "durum": "Oynandı",
-      "tv_yayini": [
-        "beIN Sports 1",
-        "tod"
-      ],
-      "skor": {
-        "ev_sahibi": 4,
-        "deplasman": 2
-      },
-      "goller": [
-        {
-          "dakika": 7,
-          "takim": "Fenerbahçe",
-          "futbolcu": "Vedat Muriqi",
-          "asist": null
-        },
-        {
-          "dakika": 10,
-          "takim": "Konyaspor",
-          "futbolcu": "Ebrima Colley",
-          "asist": "Yhoan Andzouana"
-        },
-        {
-          "dakika": 20,
-          "takim": "Fenerbahçe",
-          "futbolcu": "Mason Greenwood",
-          "asist": null
-        },
-        {
-          "dakika": 33,
-          "takim": "Fenerbahçe",
-          "futbolcu": "Marco Asensio",
-          "asist": "Mason Greenwood"
-        },
-        {
-          "dakika": 49,
-          "takim": "Fenerbahçe",
-          "futbolcu": "Mason Greenwood",
-          "asist": "Vedat Muriqi"
-        },
-        {
-          "dakika": 94,
-          "takim": "Konyaspor",
-          "futbolcu": "Deniz Türüç",
-          "asist": null
-        }
-      ],
-      "hakemler": {
-        "orta_hakem": "Atilla Karaoğlan",
-        "yardimci_hakem_1": "Mehmet Kısal",
-        "yardimci_hakem_2": "Bilal Gölen",
-        "dorduncu_hakem": "",
-        "var_hakemi": ""
-      }
-    },
-    {
-      "mac_id": 104,
-      "tarih": "2026-08-26",
-      "saat": "22:00",
-      "turnuva": "UEFA Şampiyonlar Ligi Eleme",
-      "tur": "Play-off 2. Maç",
-      "ev_sahibi": "Olympique Lyonnais",
-      "deplasman": "Fenerbahçe",
-      "rakip_logo" : "https://assets.football-logos.cc/logos/france/512x512/lyon.c7612bb5.png",
-      "stadyum": "Parc Olympique Lyonnais",
-      "durum": "Oynandı",
-      "tv_yayini": [
-        "TRT Spor",
-        "tabii"
-      ],
-      "skor": {
-        "ev_sahibi": 1,
-        "deplasman": 2
-      },
-      "goller": [
-        {
-          "dakika": 24,
-          "takim": "Fenerbahçe",
-          "futbolcu": "Vedat Muriqi",
-          "asist": null
-        },
-        {
-          "dakika": 28,
-          "takim": "Fenerbahçe",
-          "futbolcu": "Archie Brown",
-          "asist": "Mason Greenwood"
-        },
-        {
-          "dakika": 61,
-          "takim": "Olympique Lyonnais",
-          "futbolcu": "Malick Fofana",
-          "asist": "Ashley Maitland-Niles"
-        }
-      ],
-      "macin_yildizi": [
-        {
-          "futbolcu": "Vedat Muriqi",
-          "puan": 8.1
-        }
-      ],
-      "hakemler": {
-        "orta_hakem": "Maurizio Mariani",
-        "yardimci_hakem_1": "Daniele Bindoni",
-        "yardimci_hakem_2": "Alberto Tegoni",
-        "dorduncu_hakem": "",
-        "var_hakemi": ""
-      }
-    },
-    {
-      "mac_id": 105,
-      "tarih": "2026-08-30",
-      "saat": "21:30",
-      "turnuva": "Trendyol Süper Lig",
-      "hafta": 3,
-      "ev_sahibi": "Samsunspor",
-      "deplasman": "Fenerbahçe",
-      "rakip_logo": "https://assets.football-logos.cc/logos/turkey/512x512/samsunspor.25e088cd.png",
-      "stadyum": "Samsun Yeni 19 Mayıs Stadyumu",
-      "durum": "Son Oynanan Maç",
-      "tv_yayini": [
-        "beIN Sports 1",
-        "tod"
-      ],
-      "skor": {
-        "ev_sahibi": 0,
-        "deplasman": 2
-      },
-      "goller": [
-        {
-          "dakika": 3,
-          "takim": "Fenerbahçe",
-          "futbolcu": "Vedat Muriqi",
-          "asist": "Oğuz Aydın"
-        },
-        {
-          "dakika": 49,
-          "takim": "Fenerbahçe",
-          "futbolcu": "Oğuz Aydın",
-          "asist": "İrfan Can Kahveci"
-        }
-      ],
-      "macin_yildizi": [
-        {
-          "futbolcu": "Oğuz Aydın",
-          "puan": 9.4
-        }
-      ],
-      "hakemler": {
-        "orta_hakem": "Yasin Kol",
-        "yardimci_hakem_1": "Anıl Usta",
-        "yardimci_hakem_2": "Bahtiyar Birinci",
-        "dorduncu_hakem": "",
-        "var_hakemi": ""
-      }
-    },
-    {
-      "mac_id": 106,
-      "tarih": "2026-09-05",
-      "saat": "20:00",
-      "turnuva": "Trendyol Süper Lig",
-      "hafta": 4,
-      "ev_sahibi": "Fenerbahçe",
-      "deplasman": "Beşiktaş JK",
-      "rakip_logo": "https://assets.football-logos.cc/logos/turkey/512x512/besiktas.0ec1a299.png";
-      "stadyum": "Chobani Stadyumu",
-      "durum": "Sıradaki Maç",
-      "tv_yayini": [
-        "beIN Sports 1"
-      ],
-      "skor": null,
-      "goller": [],
-      "hakemler": null
-    },
-    {
-      "mac_id": 107,
-      "tarih": "2026-09-10",
-      "saat": "19:45",
-      "turnuva": "UEFA Şampiyonlar Ligi",
-      "tur": "Lig Aşaması",
-      "hafta": 4,
-      "ev_sahibi": "Fenerbahçe",
-      "deplasman": "Roma",
-      "rakip_logo": "https://assets.football-logos.cc/logos/italy/512x512/roma.8dfa8968.png";
-      "stadyum": "Chobani Stadyumu",
-      "durum": "Gelecek Maç",
-      "tv_yayini": [
-        "TRT 1"
-      ],
-      "skor": null,
-      "goller": [],
-      "hakemler": null
-    },
-    {
-      "mac_id": 1080,
-      "tarih": "2026-09-13",
-      "saat": "18:00",
-      "turnuva": "Trendyol Süper Lig",
-      "hafta": 5,
-      "ev_sahibi": "Gaziantep FK",
-      "deplasman": "Fenerbahçe",
-      "rakip_logo": "",
-      "stadyum": "Gaziantep Büyükşehir Stadyumu",
-      "durum": "Gelecek Maç",
-      "tv_yayini": [
-        "beIN Sports 2"
-      ],
-      "skor": null,
-      "goller": [],
-      "hakemler": null
-    },
-    {
-      "mac_id": 108,
-      "tarih": "2026-09-20",
-      "saat": "18:00",
-      "turnuva": "Trendyol Süper Lig",
-      "hafta": 6,
-      "ev_sahibi": "Fenerbahçe",
-      "deplasman": "Eyüpspor",
-      "rakip_logo": "",
-      "stadyum": "Chobani Stadyumu",
-      "durum": "Gelecek Maç",
-      "tv_yayini": [
-        "beIN Sports 1"
-      ],
-      "skor": null,
-      "goller": [],
-      "hakemler": null
-    },
-    {
-      "mac_id": 109,
-      "tarih": "2026-10-11",
-      "saat": "18:00",
-      "turnuva": "Trendyol Süper Lig",
-      "hafta": 7,
-      "ev_sahibi": "Çaykur Rizespor",
-      "deplasman": "Fenerbahçe",
-      "rakip_logo": "",
-      "stadyum": "Çaykur Didi Stadyumu",
-      "durum": "Gelecek Maç",
-      "tv_yayini": [
-        "beIN Sports 1"
-      ],
-      "skor": null,
-      "goller": [],
-      "hakemler": null
-    },
-    {
-      "mac_id": 110,
-      "tarih": "2026-10-18",
-      "saat": "18:00",
-      "turnuva": "Trendyol Süper Lig",
-      "hafta": 8,
-      "ev_sahibi": "Fenerbahçe",
-      "deplasman": "Alanyaspor",
-      "rakip_logo": "",
-      "stadyum": "Chobani Stadyumu",
-      "durum": "Gelecek Maç",
-      "tv_yayini": [
-        "beIN Sports 1"
-      ],
-      "skor": null,
-      "goller": [],
-      "hakemler": null
-    },
-    {
-      "mac_id": 111,
-      "tarih": "2026-10-25",
-      "saat": "18:00",
-      "turnuva": "Trendyol Süper Lig",
-      "hafta": 9,
-      "ev_sahibi": "Galatasaray",
-      "deplasman": "Fenerbahçe",
-      "rakip_logo": "",
-      "stadyum": "RAMS Park",
-      "durum": "Gelecek Maç",
-      "tv_yayini": [
-        "beIN Sports 1"
-      ],
-      "skor": null,
-      "goller": [],
-      "hakemler": null
-    },
-    {
-      "mac_id": 112,
-      "tarih": "2026-11-01",
-      "saat": "18:00",
-      "turnuva": "Trendyol Süper Lig",
-      "hafta": 10,
-      "ev_sahibi": "Fenerbahçe",
-      "deplasman": "Göztepe",
-      "rakip_logo": "",
-      "stadyum": "Chobani Stadyumu",
-      "durum": "Gelecek Maç",
-      "tv_yayini": [
-        "beIN Sports 2"
-      ],
-      "skor": null,
-      "goller": [],
-      "hakemler": null
-    },
-    {
-      "mac_id": 113,
-      "tarih": "2026-11-08",
-      "saat": "18:00",
-      "turnuva": "Trendyol Süper Lig",
-      "hafta": 11,
-      "ev_sahibi": "Çorum FK",
-      "deplasman": "Fenerbahçe",
-      "rakip_logo": "",
-      "stadyum": "Çorum Şehir Stadyumu",
-      "durum": "Gelecek Maç",
-      "tv_yayini": [
-        "beIN Sports 1"
-      ],
-      "skor": null,
-      "goller": [],
-      "hakemler": null
-    },
-    {
-      "mac_id": 114,
-      "tarih": "2026-11-22",
-      "saat": "18:00",
-      "turnuva": "Trendyol Süper Lig",
-      "hafta": 12,
-      "ev_sahibi": "Kocaelispor",
-      "deplasman": "Fenerbahçe",
-      "rakip_logo": "",
-      "stadyum": "Yıldız Entegre Kocaeli Stadyumu",
-      "durum": "Gelecek Maç",
-      "tv_yayini": [
-        "beIN Sports 1"
-      ],
-      "skor": null,
-      "goller": [],
-      "hakemler": null
-    },
-    {
-      "mac_id": 115,
-      "tarih": "2026-11-29",
-      "saat": "18:00",
-      "turnuva": "Trendyol Süper Lig",
-      "hafta": 13,
-      "ev_sahibi": "Fenerbahçe",
-      "deplasman": "Erzurumspor FK",
-      "rakip_logo": "",
-      "stadyum": "Chobani Stadyumu",
-      "durum": "Gelecek Maç",
-      "tv_yayini": [
-        "beIN Sports 2"
-      ],
-      "skor": null,
-      "goller": [],
-      "hakemler": null
-    },
-    {
-      "mac_id": 116,
-      "tarih": "2026-12-06",
-      "saat": "18:00",
-      "turnuva": "Trendyol Süper Lig",
-      "hafta": 14,
-      "ev_sahibi": "İstanbul Başakşehir FK",
-      "deplasman": "Fenerbahçe",
-      "rakip_logo": "",
-      "stadyum": "Başakşehir Fatih Terim Stadyumu",
-      "durum": "Gelecek Maç",
-      "tv_yayini": [
-        "beIN Sports 1"
-      ],
-      "skor": null,
-      "goller": [],
-      "hakemler": null
-    },
-    {
-      "mac_id": 117,
-      "tarih": "2026-12-13",
-      "saat": "18:00",
-      "turnuva": "Trendyol Süper Lig",
-      "hafta": 15,
-      "ev_sahibi": "Fenerbahçe",
-      "deplasman": "Trabzonspor",
-      "rakip_logo": "",
-      "stadyum": "Chobani Stadyumu",
-      "durum": "Gelecek Maç",
-      "tv_yayini": [
-        "beIN Sports 1"
-      ],
-      "skor": null,
-      "goller": [],
-      "hakemler": null
-    },
-    {
-      "mac_id": 118,
-      "tarih": "2026-12-20",
-      "saat": "18:00",
-      "turnuva": "Trendyol Süper Lig",
-      "hafta": 16,
-      "ev_sahibi": "Kasımpaşa SK",
-      "deplasman": "Fenerbahçe",
-      "rakip_logo": "",
-      "stadyum": "Recep Tayyip Erdoğan Stadyumu",
-      "durum": "Gelecek Maç",
-      "tv_yayini": [
-        "beIN Sports 1"
-      ],
-      "skor": null,
-      "goller": [],
-      "hakemler": null
-    },
-    {
-      "mac_id": 119,
-      "tarih": "2027-01-17",
-      "saat": "18:00",
-      "turnuva": "Trendyol Süper Lig",
-      "hafta": 17,
-      "ev_sahibi": "Fenerbahçe",
-      "deplasman": "Amed Sportif Faaliyetler",
-      "rakip_logo": "",
-      "stadyum": "Chobani Stadyumu",
-      "durum": "Gelecek Maç",
-      "tv_yayini": [
-        "beIN Sports 1"
-      ],
-      "skor": null,
-      "goller": [],
-      "hakemler": null
-    }
-  ]
+	"takim_adi" : "Fenerbahçe SK",
+	"sezon" : "2026-2027",
+	"fener_logo" : "https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png",
+	"live" : [
+		{
+			"livescore_link" : "https://arsiv.mackolik.com/Mac/4542686/Fenerbahce-Besiktas"
+		},
+		{
+			"live_evsahibi" : "FENERBAHÇE"
+		},
+		{
+			"live_deplasman" : "Beşiktaş JK"
+		},
+		{
+			"muhtemel11_evsahibi" : [
+				"Ederson",
+				"Nelson Semedo",
+				"Milan Skriniar",
+				"Nathan Ake",
+				"Archie Brown",
+				"NGolo Kante",
+				"Matteo Guendouzi",
+				"Mason Greenwood",
+				"İrfan Can Kahveci",
+				"Oğuz Aydın",
+				"Vedat Muriqi"
+			]
+		},
+		{
+			"muhtemel11_deplasman" : [
+				"Okan Kocuk",
+				"Joe Mendes",
+				"Toni Borevkovic",
+				"Ali Badra Diabate",
+				"Elliot Ward",
+				"Logi Tomasson",
+				"Celil Yüksel",
+				"Emre Kılınç",
+				"Yalçın Kayan",
+				"Saikuba Jarju",
+				"Fatih Kaya"
+			]
+		}
+	],
+	"fikstur" : [
+		{
+			"mac_id" : 101,
+			"tarih" : "2026-08-15",
+			"saat" : "21:30",
+			"turnuva" : "Trendyol Süper Lig",
+			"hafta" : 1,
+			"ev_sahibi" : "Gençlerbirliği",
+			"deplasman" : "Fenerbahçe",
+			"rakip_logo" : "",
+			"stadyum" : "Eryaman Stadyumu",
+			"durum" : "Oynandı",
+			"tv_yayini" : [ "beIN Sports 1", "tod" ],
+			"skor" : {
+				"ev_sahibi" : 2,
+				"deplasman" : 1
+			},
+			"goller" : [
+				{
+					"dakika" : 13,
+					"takim" : "Fenerbahçe",
+					"futbolcu" : "Anderson Talisca",
+					"asist" : "Levent Mercan"
+				},
+				{
+					"dakika" : 37,
+					"takim" : "Gençlerbirliği",
+					"futbolcu" : "Franco Tongya",
+					"asist" : "Sekou Koita"
+				},
+				{
+					"dakika" : 56,
+					"takim" : "Gençlerbirliği",
+					"futbolcu" : "Oğulcan Ülgün",
+					"asist" : "Abdurrahim Dursun"
+				}
+			],
+			"hakemler" : {
+				"orta_hakem" : "Oğuzhan Aksu",
+				"yardimci_hakem_1" : "Esat Sancaktar",
+				"yardimci_hakem_2" : "O. Gökhan Bilir",
+				"dorduncu_hakem" : "",
+				"var_hakemi" : ""
+			}
+		},
+		{
+			"mac_id" : 102,
+			"tarih" : "2026-08-18",
+			"saat" : "22:00",
+			"turnuva" : "UEFA Şampiyonlar Ligi Eleme",
+			"tur" : "Play-off 1. Maç",
+			"ev_sahibi" : "Fenerbahçe",
+			"deplasman" : "Olympique Lyonnais",
+			"rakip_logo" : "https://assets.football-logos.cc/logos/france/512x512/lyon.c7612bb5.png",
+			"stadyum" : "Chobani Stadyumu",
+			"durum" : "Oynandı",
+			"tv_yayini" : [ "TRT 1", "tabii" ],
+			"skor" : {
+				"ev_sahibi" : 1,
+				"deplasman" : 1
+			},
+			"goller" : [
+				{
+					"dakika" : 40,
+					"takim" : "Olympique Lyonnais",
+					"futbolcu" : "Lois Openda",
+					"asist" : "Corentin Tolisso"
+				},
+				{
+					"dakika" : 47,
+					"takim" : "Fenerbahçe",
+					"futbolcu" : "Mason Greenwood",
+					"asist" : "Kerem Aktürkoğlu"
+				}
+			],
+			"hakemler" : {
+				"orta_hakem" : "Sven Jablonski",
+				"yardimci_hakem_1" : "Eduard Beitinger",
+				"yardimci_hakem_2" : "Eric Müller",
+				"dorduncu_hakem" : "",
+				"var_hakemi" : ""
+			}
+		},
+		{
+			"mac_id" : 103,
+			"tarih" : "2026-08-22",
+			"saat" : "21:30",
+			"turnuva" : "Trendyol Süper Lig",
+			"hafta" : 2,
+			"ev_sahibi" : "Fenerbahçe",
+			"deplasman" : "Konyaspor",
+			"rakip_logo" : "https://assets.football-logos.cc/logos/turkey/512x512/konyaspor.7fb1c091.png",
+			"stadyum" : "Chobani Stadyumu",
+			"durum" : "Oynandı",
+			"tv_yayini" : [ "beIN Sports 1", "tod" ],
+			"skor" : {
+				"ev_sahibi" : 4,
+				"deplasman" : 2
+			},
+			"goller" : [
+				{
+					"dakika" : 7,
+					"takim" : "Fenerbahçe",
+					"futbolcu" : "Vedat Muriqi",
+					"asist" : null
+				},
+				{
+					"dakika" : 10,
+					"takim" : "Konyaspor",
+					"futbolcu" : "Ebrima Colley",
+					"asist" : "Yhoan Andzouana"
+				},
+				{
+					"dakika" : 20,
+					"takim" : "Fenerbahçe",
+					"futbolcu" : "Mason Greenwood",
+					"asist" : null
+				},
+				{
+					"dakika" : 33,
+					"takim" : "Fenerbahçe",
+					"futbolcu" : "Marco Asensio",
+					"asist" : "Mason Greenwood"
+				},
+				{
+					"dakika" : 49,
+					"takim" : "Fenerbahçe",
+					"futbolcu" : "Mason Greenwood",
+					"asist" : "Vedat Muriqi"
+				},
+				{
+					"dakika" : 94,
+					"takim" : "Konyaspor",
+					"futbolcu" : "Deniz Türüç",
+					"asist" : null
+				}
+			],
+			"hakemler" : {
+				"orta_hakem" : "Atilla Karaoğlan",
+				"yardimci_hakem_1" : "Mehmet Kısal",
+				"yardimci_hakem_2" : "Bilal Gölen",
+				"dorduncu_hakem" : "",
+				"var_hakemi" : ""
+			}
+		},
+		{
+			"mac_id" : 104,
+			"tarih" : "2026-08-26",
+			"saat" : "22:00",
+			"turnuva" : "UEFA Şampiyonlar Ligi Eleme",
+			"tur" : "Play-off 2. Maç",
+			"ev_sahibi" : "Olympique Lyonnais",
+			"deplasman" : "Fenerbahçe",
+			"rakip_logo" : "https://assets.football-logos.cc/logos/france/512x512/lyon.c7612bb5.png",
+			"stadyum" : "Parc Olympique Lyonnais",
+			"durum" : "Oynandı",
+			"tv_yayini" : [ "TRT Spor", "tabii" ],
+			"skor" : {
+				"ev_sahibi" : 1,
+				"deplasman" : 2
+			},
+			"goller" : [
+				{
+					"dakika" : 24,
+					"takim" : "Fenerbahçe",
+					"futbolcu" : "Vedat Muriqi",
+					"asist" : null
+				},
+				{
+					"dakika" : 28,
+					"takim" : "Fenerbahçe",
+					"futbolcu" : "Archie Brown",
+					"asist" : "Mason Greenwood"
+				},
+				{
+					"dakika" : 61,
+					"takim" : "Olympique Lyonnais",
+					"futbolcu" : "Malick Fofana",
+					"asist" : "Ashley Maitland-Niles"
+				}
+			],
+			"macin_yildizi" : [
+				{
+					"futbolcu" : "Vedat Muriqi",
+					"puan" : 8.1
+				}
+			],
+			"hakemler" : {
+				"orta_hakem" : "Maurizio Mariani",
+				"yardimci_hakem_1" : "Daniele Bindoni",
+				"yardimci_hakem_2" : "Alberto Tegoni",
+				"dorduncu_hakem" : "",
+				"var_hakemi" : ""
+			}
+		},
+		{
+			"mac_id" : 105,
+			"tarih" : "2026-08-30",
+			"saat" : "21:30",
+			"turnuva" : "Trendyol Süper Lig",
+			"hafta" : 3,
+			"ev_sahibi" : "Samsunspor",
+			"deplasman" : "Fenerbahçe",
+			"rakip_logo" : "https://assets.football-logos.cc/logos/turkey/512x512/samsunspor.25e088cd.png",
+			"stadyum" : "Samsun Yeni 19 Mayıs Stadyumu",
+			"durum" : "Son Oynanan Maç",
+			"tv_yayini" : [ "beIN Sports 1" ],
+			"skor" : {
+				"ev_sahibi" : 0,
+				"deplasman" : 2
+			},
+			"goller" : [
+				{
+					"dakika" : 3,
+					"takim" : "Fenerbahçe",
+					"futbolcu" : "Vedat Muriqi",
+					"asist" : "Oğuz Aydın"
+				},
+				{
+					"dakika" : 49,
+					"takim" : "Fenerbahçe",
+					"futbolcu" : "Oğuz Aydın",
+					"asist" : "İrfan Can Kahveci"
+				}
+			],
+			"macin_yildizi" : [
+				{
+					"futbolcu" : "Oğuz Aydın",
+					"puan" : 9.4
+				}
+			],
+			"hakemler" : {
+				"orta_hakem" : "Yasin Kol",
+				"yardimci_hakem_1" : "Anıl Usta",
+				"yardimci_hakem_2" : "Bahtiyar Birinci",
+				"dorduncu_hakem" : "",
+				"var_hakemi" : ""
+			}
+		},
+		{
+			"mac_id" : 106,
+			"tarih" : "2026-09-05",
+			"saat" : "20:00",
+			"turnuva" : "Trendyol Süper Lig",
+			"hafta" : 4,
+			"ev_sahibi" : "Fenerbahçe",
+			"deplasman" : "Beşiktaş JK",
+			"rakip_logo" : "https://assets.football-logos.cc/logos/turkey/512x512/besiktas.0ec1a299.png",
+			"stadyum" : "Chobani Stadyumu",
+			"durum" : "Sıradaki Maç",
+			"tv_yayini" : [ "beIN Sports 1" ],
+			"skor" : null,
+			"goller" : [],
+			"hakemler" : {}
+		},
+		{
+			"mac_id" : 107,
+			"tarih" : "2026-09-10",
+			"saat" : "19:45",
+			"turnuva" : "UEFA Şampiyonlar Ligi",
+			"tur" : "Lig Aşaması",
+			"hafta" : 4,
+			"ev_sahibi" : "Fenerbahçe",
+			"deplasman" : "Roma",
+			"rakip_logo" : "https://assets.football-logos.cc/logos/italy/1500x1500/roma--black-monochrome.37407e87.png",
+			"stadyum" : "Chobani Stadyumu",
+			"durum" : "Gelecek Maç",
+			"tv_yayini" : [ "TRT 1" ],
+			"skor" : null,
+			"goller" : [],
+			"hakemler" : null
+		},
+		{
+			"mac_id" : 1080,
+			"tarih" : "2026-09-13",
+			"saat" : "18:00",
+			"turnuva" : "Trendyol Süper Lig",
+			"hafta" : 5,
+			"ev_sahibi" : "Gaziantep FK",
+			"deplasman" : "Fenerbahçe",
+			"rakip_logo" : "",
+			"stadyum" : "Gaziantep Büyükşehir Stadyumu",
+			"durum" : "Gelecek Maç",
+			"tv_yayini" : [ "beIN Sports 2" ],
+			"skor" : null,
+			"goller" : [],
+			"hakemler" : null
+		},
+		{
+			"mac_id" : 108,
+			"tarih" : "2026-09-20",
+			"saat" : "18:00",
+			"turnuva" : "Trendyol Süper Lig",
+			"hafta" : 6,
+			"ev_sahibi" : "Fenerbahçe",
+			"deplasman" : "Eyüpspor",
+			"rakip_logo" : "",
+			"stadyum" : "Chobani Stadyumu",
+			"durum" : "Gelecek Maç",
+			"tv_yayini" : [ "beIN Sports 1" ],
+			"skor" : null,
+			"goller" : [],
+			"hakemler" : null
+		},
+		{
+			"mac_id" : 109,
+			"tarih" : "2026-10-11",
+			"saat" : "18:00",
+			"turnuva" : "Trendyol Süper Lig",
+			"hafta" : 7,
+			"ev_sahibi" : "Çaykur Rizespor",
+			"deplasman" : "Fenerbahçe",
+			"rakip_logo" : "",
+			"stadyum" : "Çaykur Didi Stadyumu",
+			"durum" : "Gelecek Maç",
+			"tv_yayini" : [ "beIN Sports 1" ],
+			"skor" : null,
+			"goller" : [],
+			"hakemler" : null
+		},
+		{
+			"mac_id" : 110,
+			"tarih" : "2026-10-18",
+			"saat" : "18:00",
+			"turnuva" : "Trendyol Süper Lig",
+			"hafta" : 8,
+			"ev_sahibi" : "Fenerbahçe",
+			"deplasman" : "Alanyaspor",
+			"rakip_logo" : "",
+			"stadyum" : "Chobani Stadyumu",
+			"durum" : "Gelecek Maç",
+			"tv_yayini" : [ "beIN Sports 1" ],
+			"skor" : null,
+			"goller" : [],
+			"hakemler" : null
+		},
+		{
+			"mac_id" : 111,
+			"tarih" : "2026-10-25",
+			"saat" : "18:00",
+			"turnuva" : "Trendyol Süper Lig",
+			"hafta" : 9,
+			"ev_sahibi" : "Galatasaray",
+			"deplasman" : "Fenerbahçe",
+			"rakip_logo" : "",
+			"stadyum" : "RAMS Park",
+			"durum" : "Gelecek Maç",
+			"tv_yayini" : [ "beIN Sports 1" ],
+			"skor" : null,
+			"goller" : [],
+			"hakemler" : null
+		},
+		{
+			"mac_id" : 112,
+			"tarih" : "2026-11-01",
+			"saat" : "18:00",
+			"turnuva" : "Trendyol Süper Lig",
+			"hafta" : 10,
+			"ev_sahibi" : "Fenerbahçe",
+			"deplasman" : "Göztepe",
+			"rakip_logo" : "",
+			"stadyum" : "Chobani Stadyumu",
+			"durum" : "Gelecek Maç",
+			"tv_yayini" : [ "beIN Sports 2" ],
+			"skor" : null,
+			"goller" : [],
+			"hakemler" : null
+		},
+		{
+			"mac_id" : 113,
+			"tarih" : "2026-11-08",
+			"saat" : "18:00",
+			"turnuva" : "Trendyol Süper Lig",
+			"hafta" : 11,
+			"ev_sahibi" : "Çorum FK",
+			"deplasman" : "Fenerbahçe",
+			"rakip_logo" : "",
+			"stadyum" : "Çorum Şehir Stadyumu",
+			"durum" : "Gelecek Maç",
+			"tv_yayini" : [ "beIN Sports 1" ],
+			"skor" : null,
+			"goller" : [],
+			"hakemler" : null
+		},
+		{
+			"mac_id" : 114,
+			"tarih" : "2026-11-22",
+			"saat" : "18:00",
+			"turnuva" : "Trendyol Süper Lig",
+			"hafta" : 12,
+			"ev_sahibi" : "Kocaelispor",
+			"deplasman" : "Fenerbahçe",
+			"rakip_logo" : "",
+			"stadyum" : "Yıldız Entegre Kocaeli Stadyumu",
+			"durum" : "Gelecek Maç",
+			"tv_yayini" : [ "beIN Sports 1" ],
+			"skor" : null,
+			"goller" : [],
+			"hakemler" : null
+		},
+		{
+			"mac_id" : 115,
+			"tarih" : "2026-11-29",
+			"saat" : "18:00",
+			"turnuva" : "Trendyol Süper Lig",
+			"hafta" : 13,
+			"ev_sahibi" : "Fenerbahçe",
+			"deplasman" : "Erzurumspor FK",
+			"rakip_logo" : "",
+			"stadyum" : "Chobani Stadyumu",
+			"durum" : "Gelecek Maç",
+			"tv_yayini" : [ "beIN Sports 2" ],
+			"skor" : null,
+			"goller" : [],
+			"hakemler" : null
+		},
+		{
+			"mac_id" : 116,
+			"tarih" : "2026-12-06",
+			"saat" : "18:00",
+			"turnuva" : "Trendyol Süper Lig",
+			"hafta" : 14,
+			"ev_sahibi" : "İstanbul Başakşehir FK",
+			"deplasman" : "Fenerbahçe",
+			"rakip_logo" : "",
+			"stadyum" : "Başakşehir Fatih Terim Stadyumu",
+			"durum" : "Gelecek Maç",
+			"tv_yayini" : [ "beIN Sports 1" ],
+			"skor" : null,
+			"goller" : [],
+			"hakemler" : null
+		},
+		{
+			"mac_id" : 117,
+			"tarih" : "2026-12-13",
+			"saat" : "18:00",
+			"turnuva" : "Trendyol Süper Lig",
+			"hafta" : 15,
+			"ev_sahibi" : "Fenerbahçe",
+			"deplasman" : "Trabzonspor",
+			"rakip_logo" : "",
+			"stadyum" : "Chobani Stadyumu",
+			"durum" : "Gelecek Maç",
+			"tv_yayini" : [ "beIN Sports 1" ],
+			"skor" : null,
+			"goller" : [],
+			"hakemler" : null
+		},
+		{
+			"mac_id" : 118,
+			"tarih" : "2026-12-20",
+			"saat" : "18:00",
+			"turnuva" : "Trendyol Süper Lig",
+			"hafta" : 16,
+			"ev_sahibi" : "Kasımpaşa SK",
+			"deplasman" : "Fenerbahçe",
+			"rakip_logo" : "",
+			"stadyum" : "Recep Tayyip Erdoğan Stadyumu",
+			"durum" : "Gelecek Maç",
+			"tv_yayini" : [ "beIN Sports 1" ],
+			"skor" : null,
+			"goller" : [],
+			"hakemler" : null
+		},
+		{
+			"mac_id" : 119,
+			"tarih" : "2027-01-17",
+			"saat" : "18:00",
+			"turnuva" : "Trendyol Süper Lig",
+			"hafta" : 17,
+			"ev_sahibi" : "Fenerbahçe",
+			"deplasman" : "Amed Sportif Faaliyetler",
+			"rakip_logo" : "",
+			"stadyum" : "Chobani Stadyumu",
+			"durum" : "Gelecek Maç",
+			"tv_yayini" : [ "beIN Sports 1" ],
+			"skor" : null,
+			"goller" : [],
+			"hakemler" : null
+		}
+	]
 }
