@@ -1,0 +1,47 @@
+{
+	"takim_adi" : "Fenerbahçe SK",
+	"sezon" : "2026-2027",
+	"live" : [
+		{
+			"link" : "https://arsiv.mackolik.com/Mac/4501837/Atletico-Grau-Melgar"
+		},
+		{
+			"evsahibi" : "fb"
+		},
+		{
+			"deplasman" : "bjk"
+		},
+		{
+			"muhtemel_onbir" : [
+				{
+					"evsahibi" : [
+						"Ederson",
+						"Nelson Semedo",
+						"Milan Skriniar",
+						"Nathan Ake",
+						"Archie Brown",
+						"NGolo Kante",
+						"Matteo Guendouzi",
+						"Mason Greenwood",
+						"İrfan Can Kahveci",
+						"Oğuz Aydın",
+						"Vedat Muriqi"
+					],
+					"deplasman" : [
+						"Okan Kocuk",
+						"Joe Mendes",
+						"Toni Borevkovic",
+						"Ali Badra Diabate",
+						"Elliot Ward",
+						"Logi Tomasson",
+						"Celil Yüksel",
+						"Emre Kılınç",
+						"Yalçın Kayan",
+						"Saikuba Jarju",
+						"Fatih Kaya"
+					]
+				}
+			]
+		}
+	]
+}
