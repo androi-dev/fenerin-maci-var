@@ -52,6 +52,7 @@
       "hafta": 1,
       "ev_sahibi": "Gençlerbirliği",
       "deplasman": "Fenerbahçe",
+      "rakip_logo": "",
       "stadyum": "Eryaman Stadyumu",
       "durum": "Oynandı",
       "tv_yayini": [
@@ -98,6 +99,7 @@
       "tur": "Play-off 1. Maç",
       "ev_sahibi": "Fenerbahçe",
       "deplasman": "Olympique Lyonnais",
+      "rakip_logo" : "https://assets.football-logos.cc/logos/france/512x512/lyon.c7612bb5.png",
       "stadyum": "Chobani Stadyumu",
       "durum": "Oynandı",
       "tv_yayini": [
@@ -138,6 +140,7 @@
       "hafta": 2,
       "ev_sahibi": "Fenerbahçe",
       "deplasman": "Konyaspor",
+      "rakip_logo": "https://assets.football-logos.cc/logos/turkey/512x512/konyaspor.7fb1c091.png",
       "stadyum": "Chobani Stadyumu",
       "durum": "Oynandı",
       "tv_yayini": [
@@ -202,7 +205,7 @@
       "tur": "Play-off 2. Maç",
       "ev_sahibi": "Olympique Lyonnais",
       "deplasman": "Fenerbahçe",
-      "rakip_logo": "https://im.mackolik.com/img/logo/buyuk/201.gif",
+      "rakip_logo" : "https://assets.football-logos.cc/logos/france/512x512/lyon.c7612bb5.png",
       "stadyum": "Parc Olympique Lyonnais",
       "durum": "Oynandı",
       "tv_yayini": [
@@ -255,7 +258,7 @@
       "hafta": 3,
       "ev_sahibi": "Samsunspor",
       "deplasman": "Fenerbahçe",
-      "rakip_logo": "https://fys.tff.org/TFFUploadFolder/KulupLogolari/000155_120x120.png",
+      "rakip_logo": "https://assets.football-logos.cc/logos/turkey/512x512/samsunspor.25e088cd.png",
       "stadyum": "Samsun Yeni 19 Mayıs Stadyumu",
       "durum": "Son Oynanan Maç",
       "tv_yayini": [
@@ -296,14 +299,14 @@
     },
     {
       "mac_id": 106,
-      "tarih": "2026-09-06",
-      "saat": "18:00",
+      "tarih": "2026-09-05",
+      "saat": "20:00",
       "turnuva": "Trendyol Süper Lig",
       "hafta": 4,
       "ev_sahibi": "Fenerbahçe",
-      "deplasman": "Beşiktaş",
+      "deplasman": "Beşiktaş JK",
       "rakip_logo": "https://assets.football-logos.cc/logos/turkey/512x512/besiktas.0ec1a299.png";
-      "stadyum": "Şükrü Saracoğlu Spor Kompleksi",
+      "stadyum": "Chobani Stadyumu",
       "durum": "Sıradaki Maç",
       "tv_yayini": [
         "beIN Sports 1"
@@ -314,12 +317,32 @@
     },
     {
       "mac_id": 107,
+      "tarih": "2026-09-10",
+      "saat": "19:45",
+      "turnuva": "UEFA Şampiyonlar Ligi",
+      "tur": "Lig Aşaması",
+      "hafta": 4,
+      "ev_sahibi": "Fenerbahçe",
+      "deplasman": "Roma",
+      "rakip_logo": "https://assets.football-logos.cc/logos/italy/512x512/roma.8dfa8968.png";
+      "stadyum": "Chobani Stadyumu",
+      "durum": "Gelecek Maç",
+      "tv_yayini": [
+        "TRT 1"
+      ],
+      "skor": null,
+      "goller": [],
+      "hakemler": null
+    },
+    {
+      "mac_id": 1080,
       "tarih": "2026-09-13",
       "saat": "18:00",
       "turnuva": "Trendyol Süper Lig",
       "hafta": 5,
       "ev_sahibi": "Gaziantep FK",
       "deplasman": "Fenerbahçe",
+      "rakip_logo": "",
       "stadyum": "Gaziantep Büyükşehir Stadyumu",
       "durum": "Gelecek Maç",
       "tv_yayini": [
@@ -337,7 +360,8 @@
       "hafta": 6,
       "ev_sahibi": "Fenerbahçe",
       "deplasman": "Eyüpspor",
-      "stadyum": "Şükrü Saracoğlu Spor Kompleksi",
+      "rakip_logo": "",
+      "stadyum": "Chobani Stadyumu",
       "durum": "Gelecek Maç",
       "tv_yayini": [
         "beIN Sports 1"
@@ -354,6 +378,7 @@
       "hafta": 7,
       "ev_sahibi": "Çaykur Rizespor",
       "deplasman": "Fenerbahçe",
+      "rakip_logo": "",
       "stadyum": "Çaykur Didi Stadyumu",
       "durum": "Gelecek Maç",
       "tv_yayini": [
@@ -371,7 +396,8 @@
       "hafta": 8,
       "ev_sahibi": "Fenerbahçe",
       "deplasman": "Alanyaspor",
-      "stadyum": "Şükrü Saracoğlu Spor Kompleksi",
+      "rakip_logo": "",
+      "stadyum": "Chobani Stadyumu",
       "durum": "Gelecek Maç",
       "tv_yayini": [
         "beIN Sports 1"
@@ -388,6 +414,7 @@
       "hafta": 9,
       "ev_sahibi": "Galatasaray",
       "deplasman": "Fenerbahçe",
+      "rakip_logo": "",
       "stadyum": "RAMS Park",
       "durum": "Gelecek Maç",
       "tv_yayini": [
@@ -405,7 +432,8 @@
       "hafta": 10,
       "ev_sahibi": "Fenerbahçe",
       "deplasman": "Göztepe",
-      "stadyum": "Şükrü Saracoğlu Spor Kompleksi",
+      "rakip_logo": "",
+      "stadyum": "Chobani Stadyumu",
       "durum": "Gelecek Maç",
       "tv_yayini": [
         "beIN Sports 2"
@@ -422,6 +450,7 @@
       "hafta": 11,
       "ev_sahibi": "Çorum FK",
       "deplasman": "Fenerbahçe",
+      "rakip_logo": "",
       "stadyum": "Çorum Şehir Stadyumu",
       "durum": "Gelecek Maç",
       "tv_yayini": [
@@ -439,6 +468,7 @@
       "hafta": 12,
       "ev_sahibi": "Kocaelispor",
       "deplasman": "Fenerbahçe",
+      "rakip_logo": "",
       "stadyum": "Yıldız Entegre Kocaeli Stadyumu",
       "durum": "Gelecek Maç",
       "tv_yayini": [
@@ -456,7 +486,8 @@
       "hafta": 13,
       "ev_sahibi": "Fenerbahçe",
       "deplasman": "Erzurumspor FK",
-      "stadyum": "Şükrü Saracoğlu Spor Kompleksi",
+      "rakip_logo": "",
+      "stadyum": "Chobani Stadyumu",
       "durum": "Gelecek Maç",
       "tv_yayini": [
         "beIN Sports 2"
@@ -473,6 +504,7 @@
       "hafta": 14,
       "ev_sahibi": "İstanbul Başakşehir FK",
       "deplasman": "Fenerbahçe",
+      "rakip_logo": "",
       "stadyum": "Başakşehir Fatih Terim Stadyumu",
       "durum": "Gelecek Maç",
       "tv_yayini": [
@@ -490,7 +522,8 @@
       "hafta": 15,
       "ev_sahibi": "Fenerbahçe",
       "deplasman": "Trabzonspor",
-      "stadyum": "Şükrü Saracoğlu Spor Kompleksi",
+      "rakip_logo": "",
+      "stadyum": "Chobani Stadyumu",
       "durum": "Gelecek Maç",
       "tv_yayini": [
         "beIN Sports 1"
@@ -507,6 +540,7 @@
       "hafta": 16,
       "ev_sahibi": "Kasımpaşa SK",
       "deplasman": "Fenerbahçe",
+      "rakip_logo": "",
       "stadyum": "Recep Tayyip Erdoğan Stadyumu",
       "durum": "Gelecek Maç",
       "tv_yayini": [
@@ -524,7 +558,8 @@
       "hafta": 17,
       "ev_sahibi": "Fenerbahçe",
       "deplasman": "Amed Sportif Faaliyetler",
-      "stadyum": "Şükrü Saracoğlu Spor Kompleksi",
+      "rakip_logo": "",
+      "stadyum": "Chobani Stadyumu",
       "durum": "Gelecek Maç",
       "tv_yayini": [
         "beIN Sports 1"
