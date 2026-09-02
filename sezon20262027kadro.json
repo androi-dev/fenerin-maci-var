@@ -1,0 +1,150 @@
+{
+	"takim" : "Fenerbahçe Spor Kulübü",
+	"sezon" : "2026-2027",
+	"kadro" : [
+		{
+			"forma_no" : 31,
+			"ad" : "Ederson",
+			"uyruk" : "Brezilya",
+			"mevki" : "Kaleci"
+		},
+		{
+			"forma_no" : 34,
+			"ad" : "Mert Günok",
+			"uyruk" : "Türkiye",
+			"mevki" : "Kaleci"
+		},
+		{
+			"forma_no" : 13,
+			"ad" : "Tarık Çetin",
+			"uyruk" : "Türkiye",
+			"mevki" : "Kaleci"
+		},
+		{
+			"forma_no" : 4,
+			"ad" : "Çağlar Söyüncü",
+			"uyruk" : "Türkiye",
+			"mevki" : "Stoper"
+		},
+		{
+			"forma_no" : 15,
+			"ad" : "Nathan Aké",
+			"uyruk" : "Hollanda",
+			"mevki" : "Stoper / Sol Bek"
+		},
+		{
+			"forma_no" : 37,
+			"ad" : "Milan Škriniar",
+			"uyruk" : "Slovakya",
+			"mevki" : "Stoper"
+		},
+		{
+			"forma_no" : 27,
+			"ad" : "Nélson Semedo",
+			"uyruk" : "Portekiz",
+			"mevki" : "Sağ Bek"
+		},
+		{
+			"forma_no" : 18,
+			"ad" : "Mert Müldür",
+			"uyruk" : "Türkiye",
+			"mevki" : "Sağ Bek / Sol Bek"
+		},
+		{
+			"forma_no" : 14,
+			"ad" : "Yiğit Efe Demir",
+			"uyruk" : "Türkiye",
+			"mevki" : "Stoper"
+		},
+		{
+			"forma_no" : 5,
+			"ad" : "İsmail Yüksek",
+			"uyruk" : "Türkiye",
+			"mevki" : "Ön Libero"
+		},
+		{
+			"forma_no" : 6,
+			"ad" : "Mattéo Guendouzi",
+			"uyruk" : "Fransa",
+			"mevki" : "Merkez Orta Saha"
+		},
+		{
+			"forma_no" : 91,
+			"ad" : "N'Golo Kanté",
+			"uyruk" : "Fransa",
+			"mevki" : "Merkez Orta Saha"
+		},
+		{
+			"forma_no" : 94,
+			"ad" : "Anderson Talisca",
+			"uyruk" : "Brezilya",
+			"mevki" : "On Numara"
+		},
+		{
+			"forma_no" : 17,
+			"ad" : "İrfan Can Kahveci",
+			"uyruk" : "Türkiye",
+			"mevki" : "Sağ Kanat / Orta Saha"
+		},
+		{
+			"forma_no" : 3,
+			"ad" : "Archie Brown",
+			"uyruk" : "İngiltere",
+			"mevki" : "Sol Kanat Bek"
+		},
+		{
+			"forma_no" : 28,
+			"ad" : "Bartuğ Elmaz",
+			"uyruk" : "Türkiye",
+			"mevki" : "Ön Libero"
+		},
+		{
+			"forma_no" : 22,
+			"ad" : "Levent Mercan",
+			"uyruk" : "Almanya",
+			"mevki" : "Sol Bek / Orta Saha"
+		},
+		{
+			"forma_no" : 9,
+			"ad" : "Romelu Lukaku",
+			"uyruk" : "Belçika",
+			"mevki" : "Santrafor"
+		},
+		{
+			"forma_no" : 19,
+			"ad" : "Vedat Muriqi",
+			"uyruk" : "Kosova",
+			"mevki" : "Santrafor"
+		},
+		{
+			"forma_no" : 7,
+			"ad" : "Kerem Aktürkoğlu",
+			"uyruk" : "Türkiye",
+			"mevki" : "Sol Kanat"
+		},
+		{
+			"forma_no" : 11,
+			"ad" : "Mason Greenwood",
+			"uyruk" : "İngiltere",
+			"mevki" : "Sağ Kanat"
+		},
+		{
+			"forma_no" : 10,
+			"ad" : "Marco Asensio",
+			"uyruk" : "İspanya",
+			"mevki" : "Sağ Kanat / On Numara"
+		},
+		{
+			"forma_no" : 70,
+			"ad" : "Oğuz Aydın",
+			"uyruk" : "Türkiye",
+			"mevki" : "Sağ / Sol Kanat"
+		},
+		{
+			"forma_no" : 45,
+			"ad" : "Dorgeles Nene",
+			"uyruk" : "Mali",
+			"mevki" : "Kanat / Forvet"
+		}
+	]
+}
