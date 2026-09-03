@@ -8,6 +8,7 @@
 			"uyruk" : "Brezilya",
 			"mevki" : "Kaleci",
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -17,6 +18,7 @@
 			"uyruk" : "Türkiye",
 			"mevki" : "Kaleci"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -26,6 +28,7 @@
 			"uyruk" : "Türkiye",
 			"mevki" : "Kaleci"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -35,6 +38,7 @@
 			"uyruk" : "Türkiye",
 			"mevki" : "Stoper"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -44,6 +48,7 @@
 			"uyruk" : "Hollanda",
 			"mevki" : "Stoper / Sol Bek"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -62,6 +67,7 @@
 			"uyruk" : "Portekiz",
 			"mevki" : "Sağ Bek"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -71,6 +77,7 @@
 			"uyruk" : "Türkiye",
 			"mevki" : "Sağ Bek / Sol Bek"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -80,6 +87,7 @@
 			"uyruk" : "Türkiye",
 			"mevki" : "Stoper"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -89,6 +97,7 @@
 			"uyruk" : "Türkiye",
 			"mevki" : "Ön Libero"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -98,6 +107,7 @@
 			"uyruk" : "Fransa",
 			"mevki" : "Merkez Orta Saha"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -107,6 +117,7 @@
 			"uyruk" : "Fransa",
 			"mevki" : "Merkez Orta Saha"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -116,6 +127,7 @@
 			"uyruk" : "Brezilya",
 			"mevki" : "On Numara"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -125,6 +137,7 @@
 			"uyruk" : "Türkiye",
 			"mevki" : "Sağ Kanat / Orta Saha"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -134,6 +147,7 @@
 			"uyruk" : "İngiltere",
 			"mevki" : "Sol Kanat Bek"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -143,6 +157,7 @@
 			"uyruk" : "Türkiye",
 			"mevki" : "Ön Libero"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -152,6 +167,7 @@
 			"uyruk" : "Almanya",
 			"mevki" : "Sol Bek / Orta Saha"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -161,6 +177,7 @@
 			"uyruk" : "Belçika",
 			"mevki" : "Santrafor"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -170,6 +187,7 @@
 			"uyruk" : "Kosova",
 			"mevki" : "Santrafor"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -179,6 +197,7 @@
 			"uyruk" : "Türkiye",
 			"mevki" : "Sol Kanat"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -188,6 +207,7 @@
 			"uyruk" : "İngiltere",
 			"mevki" : "Sağ Kanat"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -197,6 +217,7 @@
 			"uyruk" : "İspanya",
 			"mevki" : "Sağ Kanat / On Numara"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -206,6 +227,7 @@
 			"uyruk" : "Türkiye",
 			"mevki" : "Sağ / Sol Kanat"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		},
@@ -215,6 +237,7 @@
 			"uyruk" : "Mali",
 			"mevki" : "Kanat / Forvet"
 			"yaş" : "",
+			"maç" : "",
 			"gol" : "",
 			"asist" : ""
 		}
