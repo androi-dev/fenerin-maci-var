@@ -254,7 +254,10 @@
 			"stadyum" : "Chobani Stadyumu",
 			"durum" : "Oynandı",
 			"tv_yayini" : [ "beIN Sports 1" ],
-			"skor" : null,
+			"skor" : {
+				"ev_sahibi" : 1,
+				"deplasman" : 2
+			},
 			"goller" : [],
 			"hakemler" : {
 				"orta_hakem" : "Halil Umut Meler",
