@@ -256,7 +256,13 @@
 			"tv_yayini" : [ "beIN Sports 1" ],
 			"skor" : null,
 			"goller" : [],
-			"hakemler" : {}
+			"hakemler" : {
+				"orta_hakem" : "Halil Umut Meler",
+				"yardimci_hakem_1" : "Çağlar Uyarcan",
+				"yardimci_hakem_2" : "Abdullah Bora Özkara",
+				"dorduncu_hakem" : "",
+				"var_hakemi" : ""
+			}
 		},
 		{
 			"mac_id" : 107,
