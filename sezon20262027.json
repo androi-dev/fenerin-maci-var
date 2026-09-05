@@ -252,7 +252,7 @@
 			"deplasman" : "Beşiktaş JK",
 			"rakip_logo" : "https://assets.football-logos.cc/logos/turkey/512x512/besiktas.0ec1a299.png",
 			"stadyum" : "Chobani Stadyumu",
-			"durum" : "Son Oynanan Maç",
+			"durum" : [ "Son Oynanan Maç", "Oynandı" ],
 			"tv_yayini" : [ "beIN Sports 1" ],
 			"skor" : {
 				"ev_sahibi" : 1,
