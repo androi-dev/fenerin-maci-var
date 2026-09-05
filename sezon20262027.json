@@ -208,7 +208,7 @@
 			"deplasman" : "Fenerbahçe",
 			"rakip_logo" : "https://assets.football-logos.cc/logos/turkey/512x512/samsunspor.25e088cd.png",
 			"stadyum" : "Samsun Yeni 19 Mayıs Stadyumu",
-			"durum" : "Son Oynanan Maç",
+			"durum" : "Oynandı",
 			"tv_yayini" : [ "beIN Sports 1" ],
 			"skor" : {
 				"ev_sahibi" : 0,
@@ -252,7 +252,7 @@
 			"deplasman" : "Beşiktaş JK",
 			"rakip_logo" : "https://assets.football-logos.cc/logos/turkey/512x512/besiktas.0ec1a299.png",
 			"stadyum" : "Chobani Stadyumu",
-			"durum" : "Oynandı",
+			"durum" : "Son Oynanan Maç",
 			"tv_yayini" : [ "beIN Sports 1" ],
 			"skor" : {
 				"ev_sahibi" : 1,
